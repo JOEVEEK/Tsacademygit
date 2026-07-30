@@ -1,3 +1,3 @@
-# This is a new project about version control systems
+# This is a text file for git practice
 
-version control systems like Git are great for collaboration
+using git and github is very essential in web development
